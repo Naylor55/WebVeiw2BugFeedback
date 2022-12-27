@@ -4,3 +4,7 @@
 *.mp4
 */.vs/
 .vs/
+
+/bin/
+/packages/
+/obj/
