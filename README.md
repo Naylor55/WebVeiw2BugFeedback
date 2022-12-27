@@ -1,0 +1,2 @@
+# WebVeiw2BugFeedback
+WPF中使用WebView2遇到一个问题，猜测是控件的bug，此工程为bug复现和演示的代码
